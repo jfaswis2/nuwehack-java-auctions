@@ -92,11 +92,11 @@ The files marked with * must not be modified, as they are part of what is provid
 ## Scoring
 The final score will be given according to whether or not the objectives have been met.
 
-In this case, the challenge will be evaluated on 1200 points which are distributed as follows:
+In this case, the challenge objectives will be evaluated on 900 points which are distributed as follows:
 
-- Objective 1: 240 points
-- Objective 2: 60 points
-- Objective 3: 600 points
-- Objective 4: 300 points
+- Objective 1: 180 points
+- Objective 2: 45 points
+- Objective 3: 450 points
+- Objective 4: 225 points
 
 
